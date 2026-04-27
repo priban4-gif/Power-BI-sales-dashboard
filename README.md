@@ -11,4 +11,4 @@ Co jsem si na projektu procvičil:
 
 ### Náhled dashboardu:
 
-![Náhled dashboardu](dashboard.png)
+![Náhled dashboardu](dashboard.
